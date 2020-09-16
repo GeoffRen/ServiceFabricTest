@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "PEKtTRQZD70S4ehjMNvRC+LhgcNpkcuPQSxc1jUDWrIJxs3/JsMtVlrI9rC9O3jenN8X/qhae0wsSIYrQzF+/g==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\geren\\Documents\\Tests\\ServiceFabricTest\\src\\ServiceFabricTest\\UnattendedService\\UnattendedService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\geren\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\geren\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\geren\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\geren\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\geren\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\geren\\.nuget\\packages\\microsoft.servicefabric\\6.2.274\\microsoft.servicefabric.6.2.274.nupkg.sha512",
+    "C:\\Users\\geren\\.nuget\\packages\\microsoft.servicefabric.data\\3.1.274\\microsoft.servicefabric.data.3.1.274.nupkg.sha512",
+    "C:\\Users\\geren\\.nuget\\packages\\microsoft.servicefabric.data.extensions\\1.3.274\\microsoft.servicefabric.data.extensions.1.3.274.nupkg.sha512",
+    "C:\\Users\\geren\\.nuget\\packages\\microsoft.servicefabric.data.interfaces\\3.1.274\\microsoft.servicefabric.data.interfaces.3.1.274.nupkg.sha512",
+    "C:\\Users\\geren\\.nuget\\packages\\microsoft.servicefabric.diagnostics.internal\\3.1.274\\microsoft.servicefabric.diagnostics.internal.3.1.274.nupkg.sha512",
+    "C:\\Users\\geren\\.nuget\\packages\\microsoft.servicefabric.services\\3.1.274\\microsoft.servicefabric.services.3.1.274.nupkg.sha512",
+    "C:\\Users\\geren\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
